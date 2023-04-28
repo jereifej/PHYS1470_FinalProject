@@ -1,4 +1,4 @@
-# PHYS1470_FinalProject
+# PHYS1470 Final Project
 ## Quantum Error Correction 
-### Final Project For Phys 1470 Foundations of Quantum Computing and Quantum Information. 
-### Tristan Coogan, Joseph Ereifej, Howard Malc
+### PHYS 1470 Foundations of Quantum Computing and Quantum Information. 
+Tristan Coogan, Joseph Ereifej, Howard Malc
