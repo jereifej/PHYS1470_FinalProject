@@ -27,4 +27,6 @@ circuit.h(qreg_q[1])
 circuit.cx(qreg_q[0], qreg_q[1])
 circuit.cx(qreg_q[0], qreg_q[2])
 circuit.ccx(qreg_q[1], qreg_q[2], qreg_q[0])
+
+# Signal Qubit Readout
 circuit.measure(qreg_q[0], creg_c[0])
